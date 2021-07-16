@@ -6,7 +6,7 @@ body{
     margin:0;
     padding:0;
     
-    background-image: url(images/bg-pattern-top.svg), url(images/bg-pattern-bottom.svg);
+    background-image: url(bg-pattern-top.svg), url(bg-pattern-bottom.svg);
     background-position:  bottom 50vh right 50vw, top 50vh left 50vw;
     background-repeat: no-repeat;
 }
